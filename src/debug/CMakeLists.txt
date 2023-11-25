@@ -1,0 +1,1 @@
+add_library(debug print.hpp print.cpp)
